@@ -8,7 +8,9 @@ Moje osobní online knihovnička.
     -Které práve čtu
     -Které doporučuju
     -Iterační (které chci číst pořád dokola)
+    
 *Přidávání knížek, které jsem přečetl
+
 *Přidávání knížek do seznamu, které bych teprve číst chtěl
 
 ## Technické věci
