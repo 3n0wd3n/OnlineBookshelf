@@ -5,7 +5,7 @@ import BookList from "./bookLIst";
 
 export default function Home() {
   return (
-    <div className='flex flex-col items-center justify-between min-h-screen sm:pt-40 sm:pb-10 font-[family-name:var(--font-geist-sans)]'>
+    <div className='flex flex-col items-center justify-between min-h-screen sm:pt-40 sm:pb-10 sm:pl-10 sm:pr-10 font-[family-name:var(--font-geist-sans)]'>
       <main className='flex flex-col gap-8 items-start'>
         <h1 className='font-[family-name:var(--font-geist-mono)] text-xl'>Online Bookshelf</h1>
         <div className='flex gap-4 items-center flex-col sm:flex-row sm:w-[100%]'>
