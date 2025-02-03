@@ -5,9 +5,12 @@ Moje osobní online knihovnička.
 ## Hlavní funkce
 
 * Filtrování
-    -Které práve čtu
-    -Které doporučuju
-    -Iterační (které chci číst pořád dokola)
+  
+    - Které práve čtu
+      
+    - Které doporučuju
+      
+    - Iterační (které chci číst pořád dokola)
     
 * Přidávání knížek, které jsem přečetl
 
