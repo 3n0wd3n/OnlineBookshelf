@@ -1,6 +1,15 @@
 # OnlineBookshelf
 
-My personal web bookshelf. It is place for my recommendations about books. List of books read. And many more.
+Moje osobní online knihovnička.
+
+## Hlavní funkce
+
+Filtrování
+    Které práve čtu
+    Které doporučuju
+    Iterační (které chci číst pořád dokola)
+Přidávání knížek, které jsem přečetl
+Přidávání knížek do seznamu, které bych teprve číst chtěl
 
 ## Technické věci
 
