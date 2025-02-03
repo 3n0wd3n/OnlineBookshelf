@@ -1,0 +1,708 @@
+{
+  "books": [
+    {
+      "name": "Vesmírná Odysea",
+      "author": "A. C. Clarke",
+      "link": "https://www.databazeknih.cz/prehled-knihy/vesmirna-odysea-2001-vesmirna-odysea-29784",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Marťan",
+      "author": "Andy Weir",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Den Trifidů",
+      "author": "John Wyndham",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Cesta do Středu Země",
+      "author": "Jules Verne",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Žízeň",
+      "author": "Jo Nesbo",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Netopýr",
+      "author": "Jo Nesbo",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Syn",
+      "author": "Jo Nesbo",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Začněte s PROČ",
+      "author": "Simon Sinek",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "FOKUS",
+      "author": "Scherer Herman",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": " Pravidel pro život",
+      "author": "Jordan B. Peterson",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Konec stárnutí",
+      "author": "David Sinclair",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Faktomluva",
+      "author": "Hans Roseling",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Černé díry",
+      "author": "Stephen Hawking",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Kytice",
+      "author": "Karel Jaromír Erben",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Máj",
+      "author": "Karel Hynek Mácha",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Válka s mloky",
+      "author": "Karel Čapek",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "R.U.R",
+      "author": "Karel Čapek",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Bílá nemoc",
+      "author": "Karel Čapek",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Malý princ",
+      "author": "Antoine de Saint-Exupéry",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Zvoník u matky boží v Paříží",
+      "author": "Victor Hugo",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Důmyslný rytíř don Quijote de la Mancha",
+      "author": "Miguel de Cervantes y Saavedra",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Velký Gatsby",
+      "author": "Francis Scott Fitzgerald",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Divá Bára",
+      "author": "Božena Němcová",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Maryša",
+      "author": "Alois a Vilém Mrštíkovi",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Revizor",
+      "author": "Nikolaj Vasiljeviš Gogol",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Lakomec",
+      "author": "Moliere",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Smrt krásných srnců",
+      "author": "Ota Pavel",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Na západní frontě klid",
+      "author": "Erich Maria Remarque",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Ostře sledované vlaky",
+      "author": "Bohumil Hrabal",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Farma zvířat",
+      "author": "George Orwell",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Romeo a Jůlie",
+      "author": "William Shakespeare",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Zkrocení zlé ženy",
+      "author": "William Shakespeare",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Král Lear",
+      "author": "William Shakespeare",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Macbeth",
+      "author": "William Shakespeare",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Sophiina volba",
+      "author": "William Styron",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "The children of the new forest",
+      "author": "Captain Marryat",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "The joy luck club",
+      "author": "Amy Tan",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "New Yorkers - Short stories",
+      "author": "O. Hanry",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "The star zoo",
+      "author": "Harry Gilbert",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Hvězdy nám nepřáli",
+      "author": "John Green",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Hledání Aljašky",
+      "author": "John Green",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Těžká hodina",
+      "author": "Jiří Wolker",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Romeo, Jůlie a tma",
+      "author": "Otčenášek",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Noc na Karlštějně",
+      "author": "Jaroslav Vrchlický",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Sluha dvou pánů",
+      "author": "Carlo Goldoni",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Havran",
+      "author": "Edgar Alan Poe",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Proč spíme",
+      "author": "Matthew Wallker",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Nebuď takovej balvan",
+      "author": "Jeremy Daldry",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Co by měli KLUCI vědět o lásce",
+      "author": "Sylvia Schneidrová",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": " Chlapeckých otázek",
+      "author": "Tim Husch",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "",
+      "author": "George Orwell",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Astrofyzika pro lidi ve spěchu",
+      "author": "Neil deGrasse Tyson",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Black Beauty",
+      "author": "Anna Sewell",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Cirkadiánní kod",
+      "author": "Satchin Panda",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Eucharistie znovu objevena",
+      "author": "Catalina Rivas",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Meditace na . Karmapu",
+      "author": "Lama Oli",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Jak zabránit klimatické katastrofě",
+      "author": "Bill Gates",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Cyberpunk",
+      "author": "Andrzej Ziemianski",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Božská hra",
+      "author": "Danny Tobey",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "The ART of PEACE",
+      "author": "Morihei Ueshiba",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Tracyho Tygr",
+      "author": "William Saroyan",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Obsahuji Davy",
+      "author": "Ed Yong",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Metro ",
+      "author": "Dmitry Glukhovsky",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Metro ",
+      "author": "Dmitry Glukhovsky",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Metro ",
+      "author": "Dmitry Glukhovsky",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Mort",
+      "author": "Terry Pratchett",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Klub Záhad - Zloděj mrtvol",
+      "author": "Tomas Brezina",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Klub Tygrů - Černí bojovníci",
+      "author": "Tomas Brezina",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "The Wimpy Kid",
+      "author": "Jeff Kinney",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Problém tří těles",
+      "author": "Liou Cch'-sin",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Temný les",
+      "author": "Liou Cch'-sin",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Vzpomínka na zemi",
+      "author": "Liou Cch'-sin",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Důvody proč tě tolik miluju",
+      "author": "Bára Macháčková",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Můž, který sázel stromy",
+      "author": "Jean Giono",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Bohatý táta, chudý táta",
+      "author": "Robert Kiosaky",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Psychologie peněz",
+      "author": "Morgan Housel",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Čtyři tisíce týdnů",
+      "author": "Oliver Burkeman",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Almanach Navala Ravikanta",
+      "author": "Eric Jorgenson",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Nesmrtelnost (neoficiální čtvrté vydání pro trilogii vzpomínka na zemi)",
+      "author": "Pao Šu",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Artemis",
+      "author": "Andy Weir",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Věk supernovy",
+      "author": "Liou Cch'-Sin",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Spasitel",
+      "author": "Andy Weir",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Buď užitečný  zásad pro život",
+      "author": "Arnold Schwarzenegger",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Pokřivená zrcadla",
+      "author": "Diana Urban",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Silo",
+      "author": "Hugh Howey",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Turnus",
+      "author": "Hugh Howey",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Prach",
+      "author": "Hugh Howey",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    },
+    {
+      "name": "Elon Musk",
+      "author": "Walter Isaacson",
+      "link": "",
+      "image": "",
+      "favourite": false,
+      "recomended": false
+    }
+  ]
+}
