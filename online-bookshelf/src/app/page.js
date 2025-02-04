@@ -12,10 +12,10 @@ export default function Home() {
     setFilter(filter);
   };
   return (
-    <div className='flex flex-col items-center justify-between min-h-screen sm:pt-40 sm:pb-10 sm:pl-10 sm:pr-10 font-[family-name:var(--font-geist-sans)]'>
-      <main className='flex flex-col gap-8 items-start'>
+    <div className='flex flex-col items-center justify-between w-full min-h-screen xxs:pt-5 xxs:pl-5 xxs:pr-5 xs:pt-10 xs:pl-10 xs:pr-10 lg:pt-40 lg:pl-60 lg:pr-60 md:pt-40 md:pl-40 md:pr-40 sm:pt-20 sm:pb-10 sm:pl-20 sm:pr-20 font-[family-name:var(--font-geist-sans)]'>
+      <main className='flex flex-col gap-8 items-start w-full'>
         <h1 className='font-[family-name:var(--font-geist-mono)] text-xl'>Online Bookshelf</h1>
-        <div className='flex gap-4 items-center flex-col sm:flex-row sm:w-[100%]'>
+        <div className='flex gap-4 items-center sm:flex-row xxs:flex-col xxs:w-full'>
           <span
             onClick={() => handleFilterChange("all")}
             className='cursor-pointer rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-8 px-4 sm:px-4 w-full sm:w-auto'

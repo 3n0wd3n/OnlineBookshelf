@@ -161,8 +161,8 @@
       "recommended": false
     },
     {
-      "name": "Důmyslný rytíř don Quijote de la Mancha",
-      "author": "Miguel de Cervantes y Saavedra",
+      "name": "Důmyslný rytíř don Quijote",
+      "author": "M. de C. y Saavedra",
       "link": "",
       "image": "",
       "iterative": false,
@@ -625,7 +625,7 @@
       "recommended": true
     },
     {
-      "name": "Nesmrtelnost (neoficiální čtvrté vydání pro trilogii vzpomínka na zemi)",
+      "name": "Nesmrtelnost",
       "author": "Pao Šu",
       "link": "",
       "image": "",
