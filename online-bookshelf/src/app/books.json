@@ -96,7 +96,7 @@
       "link": "",
       "image": "",
       "yetToBeRead": false,
-      "iterative": true,
+      "iterative": false,
       "recommended": true,
       "currRead": false
     },
@@ -106,7 +106,7 @@
       "link": "",
       "image": "",
       "yetToBeRead": false,
-      "iterative": true,
+      "iterative": false,
       "recommended": true,
       "currRead": false
     },
@@ -116,7 +116,7 @@
       "link": "",
       "image": "",
       "yetToBeRead": false,
-      "iterative": false,
+      "iterative": true,
       "recommended": false,
       "currRead": false
     },
@@ -277,7 +277,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -297,7 +297,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -391,7 +391,7 @@
       "currRead": false
     },
     {
-      "name": "Hvězdy nám nepřáli",
+      "name": "Hvězdy nám nepřály",
       "author": "John Green",
       "link": "",
       "image": "",
@@ -467,7 +467,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -507,7 +507,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -517,7 +517,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -537,7 +537,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -621,33 +621,33 @@
       "currRead": false
     },
     {
-      "name": "Metro ",
+      "name": "Metro 2033",
       "author": "Dmitry Glukhovsky",
       "link": "",
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
-      "name": "Metro ",
+      "name": "Metro 2034",
       "author": "Dmitry Glukhovsky",
       "link": "",
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
-      "name": "Metro ",
+      "name": "Metro 2035",
       "author": "Dmitry Glukhovsky",
       "link": "",
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -697,7 +697,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -707,7 +707,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -717,7 +717,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -726,7 +726,7 @@
       "link": "",
       "image": "",
       "yetToBeRead": false,
-      "iterative": false,
+      "iterative": true,
       "recommended": false,
       "currRead": false
     },
@@ -747,7 +747,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -766,7 +766,7 @@
       "link": "",
       "image": "",
       "yetToBeRead": false,
-      "iterative": false,
+      "iterative": true,
       "recommended": false,
       "currRead": false
     },
@@ -777,7 +777,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": true,
-      "recommended": true,
+      "recommended": false,
       "currRead": false
     },
     {
@@ -787,7 +787,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -796,7 +796,7 @@
       "link": "",
       "image": "",
       "yetToBeRead": false,
-      "iterative": true,
+      "iterative": false,
       "recommended": true,
       "currRead": false
     },
@@ -817,7 +817,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -826,7 +826,7 @@
       "link": "",
       "image": "",
       "yetToBeRead": false,
-      "iterative": true,
+      "iterative": false,
       "recommended": true,
       "currRead": false
     },
@@ -847,8 +847,28 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
+    },
+    {
+      "name": "Přežít",
+      "author": "Petr Attia",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": true
+    },
+    {
+      "name": "Immune",
+      "author": "Philipp Dettmer",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": true
     },
     {
       "name": "Turnus",
@@ -857,7 +877,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -867,7 +887,7 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
+      "recommended": true,
       "currRead": false
     },
     {
@@ -888,7 +908,7 @@
       "yetToBeRead": false,
       "iterative": true,
       "recommended": false,
-      "currRead": true
+      "currRead": false
     },
     {
       "name": "Nástroje titánů",
