@@ -17,16 +17,20 @@ const BookList = ({ filter }) => {
       {filteredBooks.map((book, index) => (
         <li key={index} className='mb-2 flex items-center'>
           <a
-            href={book.link || undefined} // Pokud není link, použije se placeholder "#"
+            href={book.link || undefined}
             target='_blank'
             rel='noopener noreferrer'
-            className={`flex flex-row gap-2 items-center ${book.link ? "hover:underline cursor-pointer" : ""}`}
+            className={`inline-flex flex-col items-start md:flex-row gap-2 md:items-center ${
+              book.link ? "hover:underline cursor-pointer" : ""
+            }`}
           >
             <span className='font-bold'>
-              {index + 1}. {book.author}
+              {index + 1}. {book.author}:
             </span>{" "}
-            - {book.name}
-            {book.link && <FaExternalLinkAlt />}
+            <span className='flex flex-row gap-2'>
+              {book.name}
+              {book.link && <FaExternalLinkAlt />}
+            </span>
           </a>
         </li>
       ))}
