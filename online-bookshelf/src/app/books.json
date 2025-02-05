@@ -5,704 +5,2021 @@
       "author": "A. C. Clarke",
       "link": "https://www.databazeknih.cz/prehled-knihy/vesmirna-odysea-2001-vesmirna-odysea-29784",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": true
+      "recommended": true,
+      "currRead": false
     },
     {
       "name": "Marťan",
       "author": "Andy Weir",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": true
+      "recommended": true,
+      "currRead": false
     },
     {
       "name": "Den Trifidů",
       "author": "John Wyndham",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": true
+      "recommended": true,
+      "currRead": false
     },
     {
       "name": "Cesta do Středu Země",
       "author": "Jules Verne",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Žízeň",
       "author": "Jo Nesbo",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Netopýr",
       "author": "Jo Nesbo",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Syn",
       "author": "Jo Nesbo",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Začněte s PROČ",
       "author": "Simon Sinek",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "FOKUS",
       "author": "Scherer Herman",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "12 Pravidel pro život",
       "author": "Jordan B. Peterson",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": true,
-      "recommended": true
+      "recommended": true,
+      "currRead": false
     },
     {
       "name": "Konec stárnutí",
       "author": "David Sinclair",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": true,
-      "recommended": true
+      "recommended": true,
+      "currRead": false
     },
     {
       "name": "Faktomluva",
       "author": "Hans Roseling",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Černé díry",
       "author": "Stephen Hawking",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Kytice",
       "author": "Karel Jaromír Erben",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Máj",
       "author": "Karel Hynek Mácha",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Válka s mloky",
       "author": "Karel Čapek",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "R.U.R",
       "author": "Karel Čapek",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Bílá nemoc",
       "author": "Karel Čapek",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Malý princ",
       "author": "Antoine de Saint-Exupéry",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Zvoník u matky boží v Paříží",
       "author": "Victor Hugo",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Důmyslný rytíř don Quijote",
       "author": "M. de C. y Saavedra",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Velký Gatsby",
       "author": "Francis Scott Fitzgerald",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Divá Bára",
       "author": "Božena Němcová",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Maryša",
       "author": "Alois a Vilém Mrštíkovi",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Revizor",
       "author": "Nikolaj Vasiljeviš Gogol",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Lakomec",
       "author": "Moliere",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Smrt krásných srnců",
       "author": "Ota Pavel",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Na západní frontě klid",
       "author": "Erich Maria Remarque",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Ostře sledované vlaky",
       "author": "Bohumil Hrabal",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Farma zvířat",
       "author": "George Orwell",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Romeo a Jůlie",
       "author": "William Shakespeare",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Zkrocení zlé ženy",
       "author": "William Shakespeare",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Král Lear",
       "author": "William Shakespeare",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Macbeth",
       "author": "William Shakespeare",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Sophiina volba",
       "author": "William Styron",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "The children of the new forest",
       "author": "Captain Marryat",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "The joy luck club",
       "author": "Amy Tan",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "New Yorkers - Short stories",
       "author": "O. Hanry",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "The star zoo",
       "author": "Harry Gilbert",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Hvězdy nám nepřáli",
       "author": "John Green",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Hledání Aljašky",
       "author": "John Green",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Těžká hodina",
       "author": "Jiří Wolker",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Romeo, Jůlie a tma",
       "author": "Otčenášek",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Noc na Karlštějně",
       "author": "Jaroslav Vrchlický",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Sluha dvou pánů",
       "author": "Carlo Goldoni",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Havran",
       "author": "Edgar Alan Poe",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Proč spíme",
       "author": "Matthew Wallker",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Nebuď takovej balvan",
       "author": "Jeremy Daldry",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Co by měli KLUCI vědět o lásce",
       "author": "Sylvia Schneidrová",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
-      "name": " Chlapeckých otázek",
+      "name": "1000 Chlapeckých otázek",
       "author": "Tim Husch",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
-      "name": "",
+      "name": "1984",
       "author": "George Orwell",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Astrofyzika pro lidi ve spěchu",
       "author": "Neil deGrasse Tyson",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Black Beauty",
       "author": "Anna Sewell",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Cirkadiánní kod",
       "author": "Satchin Panda",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Eucharistie znovu objevena",
       "author": "Catalina Rivas",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
-      "name": "Meditace na . Karmapu",
+      "name": "Meditace na 16. Karmapu",
       "author": "Lama Oli",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Jak zabránit klimatické katastrofě",
       "author": "Bill Gates",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Cyberpunk",
       "author": "Andrzej Ziemianski",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Božská hra",
       "author": "Danny Tobey",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "The ART of PEACE",
       "author": "Morihei Ueshiba",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Tracyho Tygr",
       "author": "William Saroyan",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Obsahuji Davy",
       "author": "Ed Yong",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Metro ",
       "author": "Dmitry Glukhovsky",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Metro ",
       "author": "Dmitry Glukhovsky",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Metro ",
       "author": "Dmitry Glukhovsky",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Mort",
       "author": "Terry Pratchett",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Klub Záhad - Zloděj mrtvol",
       "author": "Tomas Brezina",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Klub Tygrů - Černí bojovníci",
       "author": "Tomas Brezina",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "The Wimpy Kid",
       "author": "Jeff Kinney",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Problém tří těles",
       "author": "Liou Cch'-sin",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Temný les",
       "author": "Liou Cch'-sin",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Vzpomínka na zemi",
       "author": "Liou Cch'-sin",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Důvody proč tě tolik miluju",
       "author": "Bára Macháčková",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Můž, který sázel stromy",
       "author": "Jean Giono",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Bohatý táta, chudý táta",
       "author": "Robert Kiosaky",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Psychologie peněz",
       "author": "Morgan Housel",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Čtyři tisíce týdnů",
       "author": "Oliver Burkeman",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Almanach Navala Ravikanta",
       "author": "Eric Jorgenson",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": true,
-      "recommended": true
+      "recommended": true,
+      "currRead": false
     },
     {
       "name": "Nesmrtelnost",
       "author": "Pao Šu",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Artemis",
       "author": "Andy Weir",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": true,
-      "recommended": true
+      "recommended": true,
+      "currRead": false
     },
     {
       "name": "Věk supernovy",
       "author": "Liou Cch'-Sin",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Spasitel",
       "author": "Andy Weir",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
-      "name": "Buď užitečný  zásad pro život",
+      "name": "Buď užitečný 7 zásad pro život",
       "author": "Arnold Schwarzenegger",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": true,
-      "recommended": true
+      "recommended": true,
+      "currRead": false
     },
     {
       "name": "Pokřivená zrcadla",
       "author": "Diana Urban",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Silo",
       "author": "Hugh Howey",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Turnus",
       "author": "Hugh Howey",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Prach",
       "author": "Hugh Howey",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
     },
     {
       "name": "Elon Musk",
       "author": "Walter Isaacson",
       "link": "",
       "image": "",
+      "yetToBeRead": false,
       "iterative": false,
-      "recommended": false
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Hovory k sobě",
+      "author": "Marcus Aurelius Antoninus",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": true,
+      "recommended": false,
+      "currRead": true
+    },
+    {
+      "name": "Nástroje titánů",
+      "author": "Tim Ferriss",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": true,
+      "recommended": false,
+      "currRead": true
+    },
+    {
+      "name": "Pohodová produktivita",
+      "author": "Ali Abdal",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": true
+    },
+    {
+      "name": "Řád není všechno",
+      "author": "Jordan B. Peterson",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": true
+    },
+    {
+      "name": "Sovereign Child",
+      "author": "Aaron Stupple",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": true
+    },
+
+    {
+      "name": "Surely You're Joking",
+      "author": "Mr. Feynman",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Where the conflict really lies",
+      "author": "William Lane Craig",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "The age of spiritual machines",
+      "author": "Ray Kurzweil",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "The lessons of history",
+      "author": "Will & Ariel Durant",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Slova, která fungují",
+      "author": "--",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Měsíc je drsná milenka",
+      "author": "Robert A. Heinlein",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Teorie her",
+      "author": "Ken Binmore",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Ekonomie",
+      "author": "Adam Smith",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Never Eat Alone",
+      "author": "Keith Ferrazzi",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Sedm typů spokojeného manželství",
+      "author": "John Gottman",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Teorie pravděpodobnosti",
+      "author": "Josef Štěpán",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Mapy významu",
+      "author": "Jordan B. Peterson",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Pan Much",
+      "author": "William Peter Blatty",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Atlasova vzpoura",
+      "author": "Ayn Rand",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Robot-proof",
+      "author": "Joseph E. Aoun",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "I do not want to talk about it",
+      "author": "Terrence Real",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Ještě to promysli",
+      "author": "Adam Grant",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Moc přítomného okamžiku",
+      "author": "Eckhart Tolle",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Brave New World",
+      "author": "Aldous Huxley",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Nespokojenost v kultuře",
+      "author": "Sigmund Freud",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Dluh",
+      "author": "David Graeber",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Labyrint světa a ráj srdce",
+      "author": "Jan Amos Komenský",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Exodus",
+      "author": "Leon Uris",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Zbraně vlivu",
+      "author": "Robert B. Cialdini",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Za hranice komfortu",
+      "author": "Michael Eastern",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Vzestup a pád lidské mysli",
+      "author": "Martin Jan Stránský",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Prezidenti rozdělené Ameriky",
+      "author": "Martin Kovář",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "How to lie with statistics",
+      "author": "Darrell Huff",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Váš mozek se dokáže uzdravit",
+      "author": "Norman Doidge",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Interpretation of Financial Statements",
+      "author": "Mary Buffett",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "The Personal MBA",
+      "author": "Josh Kaufman",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Dávat a brát",
+      "author": "Adam Grant",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Alenka v říši divů",
+      "author": "Lewis Carroll",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Principia Mathematica",
+      "author": "Alfred North Whitehead, Bertrand Russell",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Všechny knížky od",
+      "author": "Laurent Gounelle",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Little book of common sense investing",
+      "author": "John C. Bogle",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Pacient",
+      "author": "Sebastian Fitzek",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Za zavřenými dveřmi",
+      "author": "B.A. Paris",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Digitální minimalismus",
+      "author": "Cal Newport",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Invisible hook",
+      "author": "Peter T. Leeson",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Freakonomics",
+      "author": "Steven D. Levitt, Stephen J. Dubner",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Najdi svého marťana",
+      "author": "Marek Herman",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Obraz Doriana Graye",
+      "author": "Oscar Wilde",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Zločin a trest",
+      "author": "Fjodor Michajlovič Dostojevskij",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Budoucnost",
+      "author": "Michio Kaku",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Souostroví Gulag",
+      "author": "Alexandr Solženicyn",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Navždy plynule",
+      "author": "Gabriel Wyner",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Kdy",
+      "author": "Daniel H. Pink",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Biohacking",
+      "author": "Ben Greenfield",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": true
+    },
+    {
+      "name": "Algoritmy pro život",
+      "author": "Brian Christian, Tom Griffiths",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Příběh lidského těla",
+      "author": "Daniel Lieberman",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Houževnatost",
+      "author": "Angela Duckworth",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Myslení rychlé a pomalé",
+      "author": "Daniel Kahneman",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Superprognozy",
+      "author": "Philip E. Tetlock, Dan Gardner",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Druhý věk strojů",
+      "author": "Erik Brynjolfsson, Andrew McAfee",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Zdravá střeva",
+      "author": "Justin Sonnenburg",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Darkweb: sex, drogy a bitcoiny",
+      "author": "Dominik Stroukal",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Vynález jménem BITCOIN",
+      "author": "Pritzker Yan",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Bitcoin a jiné peníze budoucnosti",
+      "author": "Dominik Stroukal",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Pokrok bez povolení",
+      "author": "Róbert Chovanculiak",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Vteřinu poté",
+      "author": "William R. Forstchen",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Social Duty",
+      "author": "Leslie Stephens",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Inferno",
+      "author": "Dan Brown",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Blackout",
+      "author": "Marc Elsberg",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Konec civilizace aneb překrásný nový svět",
+      "author": "Aldous Huxley",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "The Periodic Table",
+      "author": "Primo Levi",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Anna Karenina",
+      "author": "Lev Nikolajevič Tolstoj",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Alchymie",
+      "author": "Rory Sutherland",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Hardcore historie",
+      "author": "Dan Carlin",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Trauma očima dítěte",
+      "author": "Levin Peter",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Sbohem, mami, sbohem, tati",
+      "author": "Levy Alexander",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Vzpoura proti globalizaci",
+      "author": "Nadav Ejal",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Tajný život stromů",
+      "author": "Petr Wohlleben",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Jak žít dobrý život",
+      "author": "Sirignano, William A.",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Nejbohatší muž v Babylóně",
+      "author": "George S.",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Čtyřhodinový pracovní týden",
+      "author": "Tim Ferriss",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Umění války",
+      "author": "Sun-c",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "A Thousand Brains",
+      "author": "Jeff Hawkins",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Jsem služebníkem tajného ohně",
+      "author": "Tomáš Sedláček",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "The Code Breaker",
+      "author": "Walter Isaacson",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Nejšťastnější muž na zemi",
+      "author": "Eddie Jaku",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Konec všeho",
+      "author": "Katie Mack",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Empire of Pain",
+      "author": "Patrick Radden Keefe",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Little Life",
+      "author": "Hanya Yanagihara",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Chytrý investor",
+      "author": "Benjamin Graham",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "The Big Leap",
+      "author": "Gay Hendricks",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Stopařův průvodce po galaxii",
+      "author": "Douglas Adams",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Harry Potter",
+      "author": "J. K. Rowling",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Přítel lesa - příručka pro mladé skauty",
+      "author": "Kayser Renée",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "V zajetí geografie",
+      "author": "Tim Marshall",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Ekonomické bubliny",
+      "author": "Dominik Stroukal",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Dějiny 20. století",
+      "author": "Paul Johnson",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Hoši od bobří řeky",
+      "author": "Jaroslav Foglar",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Večery na samotě poblíž Dikanky",
+      "author": "Nikolaj Vasiljevič Gogol",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Šílenství davu",
+      "author": "Douglas Murray",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Teorie mravních citů",
+      "author": "Adam Smith",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Bajka o včelách",
+      "author": "Bernard Mandeville",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Ekonomie dobra a zla",
+      "author": "Tomáš Sedláček",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Iob",
+      "author": "--",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Immortality Key",
+      "author": "Brian C. Muraresku",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Pervert Guide to Cinema",
+      "author": "Slavoj Žižek",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Enum a Elish",
+      "author": "Goudsward Ken",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Velký inkvizitor",
+      "author": "Fjodor Michajlovič Dostojevskij",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Svět levného dopaminu",
+      "author": "Jarmar Jiří Kryštof a Hlaváček Vojtěch",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Don't die",
+      "author": "Bryan Johnson",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "We the People",
+      "author": "Bryan Johnson",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Zeroism",
+      "author": "Bryan Johnson",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Horův vzestup",
+      "author": "Dan Abnet",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
     }
   ]
 }
