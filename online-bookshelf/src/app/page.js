@@ -18,7 +18,7 @@ export default function Home() {
         <div className='flex gap-4 items-center flex-wrap sm:flex-row xxs:flex-col xxs:w-full'>
           <span
             onClick={() => handleFilterChange("all")}
-            className='cursor-pointer rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-8 px-4 sm:px-4 w-full sm:w-auto'
+            className='active:border-gray-500 cursor-pointer rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-8 px-4 sm:px-4 w-full sm:w-auto'
           >
             Přečtené
           </span>
@@ -30,13 +30,13 @@ export default function Home() {
           </span>
           <span
             onClick={() => handleFilterChange("iterative")}
-            className='cursor-pointer rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-8 px-4 sm:px-4 w-full sm:w-auto'
+            className='active:border-gray-500 cursor-pointer rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-8 px-4 sm:px-4 w-full sm:w-auto'
           >
             Iterační
           </span>
           <span
             onClick={() => handleFilterChange("currRead")}
-            className='cursor-pointer rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-8 px-4 sm:px-4 w-full sm:w-auto'
+            className='active:border-gray-500 cursor-pointer rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-8 px-4 sm:px-4 w-full sm:w-auto'
           >
             Aktuálně čtu
           </span>
