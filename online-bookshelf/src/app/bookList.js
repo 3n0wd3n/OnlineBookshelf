@@ -21,7 +21,7 @@ const BookList = ({ filter }) => {
   console.log(filteredBooks.length);
 
   return (
-    <ol className='list-inside list-decimal text-sm sm:text-left sm:pb-8 font-[family-name:var(--font-geist-mono)]'>
+    <ol className='list-inside list-decimal text-sm sm:text-left pb-8 font-[family-name:var(--font-geist-mono)]'>
       {filteredBooks.length === 0
         ? "Aktuálně nic nečtu"
         : filteredBooks
