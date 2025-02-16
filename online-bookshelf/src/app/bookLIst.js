@@ -1,4 +1,4 @@
-import booksData from "./books.json";
+import booksData from "./newBooks.json";
 import { FaExternalLinkAlt } from "react-icons/fa";
 
 const BookList = ({ filter }) => {
