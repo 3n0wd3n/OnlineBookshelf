@@ -2059,7 +2059,17 @@
       "yetToBeRead": false,
       "iterative": false,
       "recommended": false,
+      "currRead": true
+    },
+    {
+      "name": "Moc přítomného okamžiku",
+      "author": "Eckhart Tolle",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": true,
+      "recommended": true,
       "currRead": false
-    }
+    },
   ]
 }
