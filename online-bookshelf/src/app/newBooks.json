@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "name": "Bitcoin - Odluka peněz od státu",
+      "author": "Josef Tětek",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": true
+    },
+    {
+      "name": "Moc přítomného okamžiku",
+      "author": "Eckhart Tolle",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": true,
+      "recommended": false,
+      "currRead": false
+    },
+    {
       "name": "The terrible and wonderful reasons why i run",
       "author": "Oatmeal",
       "link": "",
