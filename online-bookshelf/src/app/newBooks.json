@@ -8,7 +8,7 @@
       "yetToBeRead": false,
       "iterative": false,
       "recommended": false,
-      "currRead": true
+      "currRead": false
     },
     {
       "name": "Moc přítomného okamžiku",
@@ -16,9 +16,9 @@
       "link": "",
       "image": "",
       "yetToBeRead": false,
-      "iterative": true,
+      "iterative": false,
       "recommended": false,
-      "currRead": false
+      "currRead": true
     },
     {
       "name": "The terrible and wonderful reasons why i run",
