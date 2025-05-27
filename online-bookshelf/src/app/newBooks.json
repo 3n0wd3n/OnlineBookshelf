@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "name": "Metabolic Freedom",
+      "author": "Ben Azadi",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
       "name": "Bitcoin - Odluka peněz od státu",
       "author": "Josef Tětek",
       "link": "",
