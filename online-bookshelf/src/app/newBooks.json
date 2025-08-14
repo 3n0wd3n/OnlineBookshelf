@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "name": "Toulavá Země",
+      "author": "Liu Xin",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
       "name": "Metabolic Freedom",
       "author": "Ben Azadi",
       "link": "",
