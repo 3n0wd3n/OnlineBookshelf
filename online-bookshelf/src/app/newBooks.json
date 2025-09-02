@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "name": "Ready Player Two",
+      "author": "Ernest Cline",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": true
+    },
+    {
       "name": "Bitcoin revoluce, nebo podvod",
       "author": "Michael Novák",
       "link": "",
