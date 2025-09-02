@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "name": "Zero to One",
+      "author": "Peter Thiel",
+      "link": "",
+      "image": "",
+      "yetToBeRead": true,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
       "name": "The Design of Everyday Things",
       "author": "Don Norman",
       "link": "",
