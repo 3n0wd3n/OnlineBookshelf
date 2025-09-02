@@ -1,16 +1,6 @@
 {
   "books": [
     {
-      "name": "Toulavá Země",
-      "author": "Liou Cch’-sin",
-      "link": "",
-      "image": "",
-      "yetToBeRead": false,
-      "iterative": false,
-      "recommended": true,
-      "currRead": false
-    },
-    {
       "name": "Bitcoin revoluce, nebo podvod",
       "author": "Michael Novák",
       "link": "",
@@ -18,6 +8,16 @@
       "yetToBeRead": false,
       "iterative": false,
       "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Toulavá Země",
+      "author": "Liou Cch’-sin",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": true,
       "currRead": false
     },
     {
