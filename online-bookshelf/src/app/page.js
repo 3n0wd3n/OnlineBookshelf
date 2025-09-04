@@ -1,3 +1,10 @@
+"use client";
+import Image from "next/image";
+import { useState } from "react";
+import { FaTwitter } from "react-icons/fa";
+import { FaGlobe } from "react-icons/fa";
+import BookList from "./bookList";
+
 export default function Home() {
   const [filter, setFilter] = useState("all");
 
