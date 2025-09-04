@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div className='flex flex-col items-center justify-between w-full min-h-screen xxs:pt-5 xxs:pb-5 xxs:pl-5 xxs:pr-5 xs:pt-10 xs:pb-10 xs:pl-10 xs:pr-10 lg:pt-40 lg:pb-pb-10 lg:pl-60 lg:pr-60 md:pt-40 md:pb-pb-10 md:pl-40 md:pr-40 sm:pt-20 sm:pb-pb-10 sm:pl-20 sm:pr-20 font-[family-name:var(--font-geist-sans)]'>
       <main className='flex flex-col gap-8 items-start w-full'>
-        <h1 className='font-[family-name:var(--font-geist-mono)] text-xl'>Online Bookshelf {filter}</h1>
+        <h1 className='font-[family-name:var(--font-geist-mono)] text-xl'>Online Bookshelf ${filter}</h1>
         <div className='flex gap-4 items-center flex-wrap sm:flex-row xxs:flex-col xxs:w-full'>
           <span
             onClick={() => handleFilterChange("all")}
