@@ -7,7 +7,12 @@ import BookList from "./bookList";
 
 export default function Home() {
   const [filter, setFilter] = useState("all");
-
+  const btnClassNameCommon =
+    "active:border-gray-500 cursor-pointer rounded-full border border-solid px-4 sm:px-4 w-full sm:w-auto";
+  const btnClassNameActivePart =
+    "border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-8";
+  const btnClassNameInactivePart =
+    "border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-8";
   const handleFilterChange = (filter) => {
     setFilter(filter);
   };
@@ -20,31 +25,37 @@ export default function Home() {
         <div className='flex gap-4 items-center flex-wrap sm:flex-row xxs:flex-col xxs:w-full'>
           <span
             onClick={() => handleFilterChange("all")}
-            className='active:border-gray-500 cursor-pointer rounded-full border border-solid px-4 sm:px-4 w-full sm:w-auto border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-8'
+            className={`${btnClassNameCommon} ${filter === "all" ? btnClassNameActivePart : btnClassNameInactivePart}`}
           >
             Přečtené
           </span>
           <span
             onClick={() => handleFilterChange("recommended")}
-            className='active:border-gray-500 cursor-pointer rounded-full border border-solid px-4 sm:px-4 w-full sm:w-auto border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-8'
+            className={`${btnClassNameCommon} ${
+              filter === "recommended" ? btnClassNameActivePart : btnClassNameInactivePart
+            }`}
           >
             Doporučuju
           </span>
           <span
             onClick={() => handleFilterChange("iterative")}
-            className='active:border-gray-500 cursor-pointer rounded-full border border-solid px-4 sm:px-4 w-full sm:w-auto sm:px-4 w-full sm:w-auto border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-8'
+            className={`${btnClassNameCommon} ${
+              filter === "iterative" ? btnClassNameActivePart : btnClassNameInactivePart
+            }`}
           >
             Iterační
           </span>
           <span
             onClick={() => handleFilterChange("currRead")}
-            className='active:border-gray-500 cursor-pointer rounded-full border border-solid px-4 sm:px-4 w-full sm:w-auto border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-8'
+            className={`${btnClassNameCommon} ${
+              filter === "currRead" ? btnClassNameActivePart : btnClassNameInactivePart
+            }`}
           >
             Aktuálně čtu
           </span>
           <span
             onClick={() => handleFilterChange("ytbr")}
-            className='active:border-gray-500 cursor-pointer rounded-full border border-solid px-4 sm:px-4 w-full sm:w-auto border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-8'
+            className={`${btnClassNameCommon} ${filter === "ytbr" ? btnClassNameActivePart : btnClassNameInactivePart}`}
           >
             Na seznamu
           </span>
