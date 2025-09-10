@@ -425,10 +425,10 @@
       "author": "Tim Ferriss",
       "link": "",
       "image": "",
-      "yetToBeRead": true,
-      "iterative": false,
+      "yetToBeRead": false,
+      "iterative": true,
       "recommended": false,
-      "currRead": false
+      "currRead": true
     },
     {
       "name": "Nejbohatší muž v Babylóně",
