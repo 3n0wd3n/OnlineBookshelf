@@ -1,5 +1,15 @@
 {
   "books": [
+        {
+      "name": "Bitcoin - The Ultimate Collateral",
+      "author": "Martin Connor",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
     {
       "name": "Zero to One",
       "author": "Peter Thiel",
