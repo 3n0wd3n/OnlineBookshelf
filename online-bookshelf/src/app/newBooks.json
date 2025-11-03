@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "name": "Trump - The Art of The Deal",
+      "author": "Donald J. Trump",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": true
+    },
+    {
       "name": "Kyberpunková Swingers Párty",
       "author": "František Kotleta",
       "link": "",
@@ -26,16 +36,6 @@
       "link": "",
       "image": "",
       "yetToBeRead": false,
-      "iterative": false,
-      "recommended": false,
-      "currRead": false
-    },
-    {
-      "name": "Zero to One",
-      "author": "Peter Thiel",
-      "link": "",
-      "image": "",
-      "yetToBeRead": true,
       "iterative": false,
       "recommended": false,
       "currRead": false
