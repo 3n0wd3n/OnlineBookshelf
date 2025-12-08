@@ -1,5 +1,15 @@
 {
   "books": [
+     {
+      "name": "Bludy v hlavě",
+      "author": "Alfonso Casas",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
     {
       "name": "Trump - The Art of The Deal",
       "author": "Donald J. Trump",
