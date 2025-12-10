@@ -1,5 +1,15 @@
 {
   "books": [
+    {
+      "name": "Krize v Hlavě",
+      "author": "Alfonso Casas",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": true,
+      "currRead": false
+    },
      {
       "name": "Bludy v Hlavě",
       "author": "Alfonso Casas",
