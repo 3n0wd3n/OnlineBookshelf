@@ -1317,8 +1317,8 @@
       "image": "",
       "yetToBeRead": false,
       "iterative": false,
-      "recommended": false,
-      "currRead": true
+      "recommended": true,
+      "currRead": false
     },
     {
       "name": "Přežít",
