@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "name": "Modulating the flavor profile of coffee",
+      "author": "Rob Hoos",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
       "name": "Rubikon",
       "author": "J.S Dewes",
       "link": "",
