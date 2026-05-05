@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "name": "Hráč",
+      "author": "Banks",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
       "name": "Modulating the flavor profile of coffee",
       "author": "Rob Hoos",
       "link": "",
