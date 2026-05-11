@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "name": "Ikigai",
+      "author": "Ken Mogi",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
       "name": "Hráč",
       "author": "Banks",
       "link": "",
