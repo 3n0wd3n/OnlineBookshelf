@@ -1,5 +1,15 @@
 {
   "books": [
+        {
+      "name": "Horuv Vzestup",
+      "author": "Dan Abnett",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
     {
       "name": "Ikigai",
       "author": "Ken Mogi",
