@@ -1,7 +1,17 @@
 {
   "books": [
-        {
-      "name": "Horuv Vzestup",
+    {
+      "name": "Falešní Bohové - Horovo Kacířství",
+      "author": "Graham McNeil",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
+      "name": "Horuv Vzestup - Horovo Kacířství",
       "author": "Dan Abnett",
       "link": "",
       "image": "",
