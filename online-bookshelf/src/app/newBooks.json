@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "name": "Galaxie v Plamenech - Horovo Kacířství",
+      "author": "Ben Counter",
+      "link": "",
+      "image": "",
+      "yetToBeRead": false,
+      "iterative": false,
+      "recommended": false,
+      "currRead": false
+    },
+    {
       "name": "Falešní Bohové - Horovo Kacířství",
       "author": "Graham McNeil",
       "link": "",
